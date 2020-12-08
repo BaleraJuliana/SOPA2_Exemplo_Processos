@@ -4,7 +4,7 @@
 > **Language:** Java :coffee:
 
 
-# Exemplo para a aula de Processos Cooperativos 
+# Exemplo de Processos Cooperativos 
 
 Esse repositório guarda um exemplo de implementação do problema produtor-consumidor utilizado para ilustrar o conceito de processos cooperativos, referente a uma aula ministrada no contexto da disciplina de Sistemas Operacionais (SOPA2-IFSP-CJO). 
 
