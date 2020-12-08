@@ -29,7 +29,7 @@ Clique no ícone "General", e em seguida em "Existing Projects into Workspace". 
 
 <p align="center"><img src="tela2.png" width="350x" /></p>
 
-Selecione a opção "Select root directory" e clique em "Browse...". Nesse momento você deverá indicar o caminho da onde o seu projeto está (no caso da nossa disciplina, você irá indicar onde a pasta "dw2" está dentro do workspace do eclipse). Por fim, clique em "Finish". E pronto ! seu projeto foi importado no eclipse.  
+Selecione a opção "Select root directory" e clique em "Browse...". Nesse momento você deverá indicar o caminho da onde o seu projeto está (no caso da nossa disciplina, você irá indicar onde a pasta "SOPA2" está dentro do workspace do eclipse). Por fim, clique em "Finish". E pronto ! seu projeto foi importado no eclipse.  
 
 
 
