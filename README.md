@@ -1,6 +1,6 @@
 > **Project status:** complete :heavy_check_mark: </br>
 > **Author:** Juliana Marino Balera :busts_in_silhouette: </br>
-> **Year:** 2020 :date:
+> **Year:** 2020 :date: </br>
 > **Language:** Java :coffee:
 
 
@@ -8,7 +8,15 @@
 
 Esse repositório guarda um exemplo de implementação do problema produtor-consumidor utilizado para ilustrar o conceito de processos cooperativos, referente a uma aula ministrada no contexto da disciplina de Sistemas Operacionais (SOPA2-IFSP-CJO). 
 
-Para a resolução dos exercícios em sala de aula, foi utilizado a IDE eclipse (https://www.eclipse.org/downloads/). 
+Foi utilizado a IDE eclipse (https://www.eclipse.org/downloads/). 
+
+# Problema Produtor-Consumidor 
+
+O problema produtor-consumidor ilustra a necessidade de haver comunicação entre determinados processos. Neste exemplo, existe a classe *Buffer.java* que implementa um buffer de tamanho limitado, a classe *ProcessoProdutor.java* que irá adicionar elementos nesse buffer, e a classe *ProcessoConsumidor.java* que irá retirar elementos desse mesmo buffer. A classe principal(*Processador.java*) representa o processador e a classe *Escalonador.java* representa um escalonador que escolhe os processos que irão utilizar a CPU de maneira aleatória.         
+
+A figura a seguir mostra a saída da execução desse programa. Observe que um erro é exibido na tela quando o processo consumidor tenta consumir algo quado o buffer está vazio. 
+
+<p align="center"><img src="tela3.png" width="350x" /></p>
 
 ## Como importar um projeto no eclipse :interrobang:
 
