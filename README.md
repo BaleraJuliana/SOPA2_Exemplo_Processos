@@ -16,7 +16,7 @@ O problema produtor-consumidor ilustra a necessidade de haver comunicação entr
 
 A figura a seguir mostra a saída da execução desse programa. Observe que um erro é exibido na tela quando o processo consumidor tenta consumir algo quado o buffer está vazio. 
 
-<p align="center"><img src="tela3.png" width="350x" /></p>
+<p align="center"><img src="tela3.png" width="500x" /></p>
 
 ## Como importar um projeto no eclipse :interrobang:
 
