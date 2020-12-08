@@ -12,9 +12,9 @@ Foi utilizado a IDE eclipse (https://www.eclipse.org/downloads/).
 
 # Problema Produtor-Consumidor 
 
-O problema produtor-consumidor ilustra a necessidade de haver comunicação entre determinados processos. Neste exemplo, existe a classe *Buffer.java* que implementa um buffer de tamanho limitado, a classe *ProcessoProdutor.java* que irá adicionar elementos nesse buffer, e a classe *ProcessoConsumidor.java* que irá retirar elementos desse mesmo buffer. A classe principal(*Processador.java*) representa o processador e a classe *Escalonador.java* representa um escalonador que escolhe os processos que irão utilizar a CPU de maneira aleatória.         
+O problema produtor-consumidor ilustra a necessidade de haver comunicação entre determinados processos. Neste exemplo, existe a classe *Buffer.java* que implementa um buffer de tamanho limitado, a classe *ProcessoProdutor.java* que irá adicionar elementos neste buffer, e a classe *ProcessoConsumidor.java* que irá retirar elementos deste mesmo buffer. A classe principal(*Processador.java*) representa o processador e a classe *Escalonador.java* representa um escalonador que escolhe os processos que irão utilizar a CPU de maneira aleatória.         
 
-A figura a seguir mostra a saída da execução desse programa. Observe que um erro é exibido na tela quando o processo consumidor tenta consumir algo quado o buffer está vazio. 
+A figura a seguir mostra a saída da execução deste programa. Observe que um erro é exibido na tela quando o processo consumidor tenta consumir algo quando o buffer está vazio. 
 
 <p align="center"><img src="tela3.png" width="500x" /></p>
 
